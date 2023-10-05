@@ -1,8 +1,8 @@
 # CS540-Intro-to-AI
-The course website can be found [here](https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/index.html) and I earned 98.59/100 during 22fall at UW-Madison.
+I took this course at the University of Wisconsin-Madison during the Fall 2022 semester, instructed by Professor Kirthi Kandasamy, and I earned 98.59/100. The course website can be found [here](https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/index.html).
 
 
-Here are short descriptions for each program -
+Here are short descriptions for each program: 
 > hw2: probabilistic language identification to estimate English or Spanish  
 > hw3: facial analysis utilizing Principal Component Analysis (PCA)  
 > hw5: linear regression on Lake Mendota Ice  
