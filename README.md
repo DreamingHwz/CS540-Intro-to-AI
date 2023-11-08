@@ -1,6 +1,5 @@
 # CS540-Intro-to-AI
-I took this course at the University of Wisconsin-Madison during the Fall 2022 semester, instructed by Professor Kirthi Kandasamy, and I earned 98.59/100. The course website can be found [here](https://pages.cs.wisc.edu/~kandasamy/courses/22fall-cs540/index.html).
-
+Welcome to the Machine Learning Projects Repository!
 
 Here are short descriptions for each program: 
 > hw2: probabilistic language identification to estimate English or Spanish  
